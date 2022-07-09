@@ -1,0 +1,76 @@
+{
+    "skin": [
+        "black",
+        "blue",
+        "pink",
+        "white"
+    ],
+    "skinprob": [
+        40,
+        10,
+        20,
+        30
+    ],
+    "eye": [
+        "bdmn",
+        "Hchromia",
+        "gold",
+        "lightning",
+        "default"
+    ],
+    "eyeprob": [
+        10,
+        10,
+        20,
+        20,
+        40
+    ],
+    "hair": [
+        "bun",
+        "curl",
+        "long",
+        "short"
+    ],
+    "hairprob": [
+        10,
+        20,
+        35,
+        35
+    ],
+    "clothes": [
+        "knight",
+        "maid",
+        "tech",
+        "yakuza"
+    ],
+    "clothesprob": [
+        10,
+        20,
+        30,
+        40
+    ],
+    "head": [
+        "flowercrown",
+        "halo",
+        "maid",
+        "tiara"
+    ],
+    "headprob": [
+        10,
+        20,
+        30,
+        40
+    ],
+    "accessory": [
+        "flower",
+        "mask",
+        "nvg",
+        "secglasses"
+    ],
+    "accessoryprob": [
+        10,
+        20,
+        30,
+        40
+    ]
+}
